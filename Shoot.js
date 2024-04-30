@@ -181,6 +181,5 @@ class Jeu {
     });
   }
 }
-
 let jeu = new Jeu();
 jeu.loop();
